@@ -23,9 +23,12 @@
 
  
 - El objetivo de esta página es a dar a conocer sobre la agronomía que se da en la sede de mosquera Sena CBA, la página contiene imágenes tomadas por nosotros mismos, en cada una de las secciones se encuentra una especificación del contenido con diversidad de imágenes 
+- 
 
 
 Integrantes:
+
+
 
 -Anthony Rincón 
 
