@@ -15,13 +15,11 @@
                                                    
          
 
-- Se hace página de Senagro con variedad de contenido, contiene un carrusel de imágenes, objetivos,  cómo llegar, quienes somos, en su parte lateral se encuentra un menú que nos indica el contenido de la página que contiene apicultura, ganadería, especies menores, biotecnología, cafetería, eventos culturales y videos.
-
-
+- Se hace página de Senagro con variedad de contenido
+- Contiene un carrusel de imágenes, objetivos,  cómo llegar, quienes somos, 
+- En su parte lateral se encuentra un menú que nos indica el contenido de la página que contiene apicultura, ganadería, especies menores, biotecnología, cafetería, eventos culturales y galeria de videos.
 - se cambio el footer, el tipo de letra, se organizo el contenido de las paginas (texto e imagen) 
 
-
- 
 - El objetivo de esta página es a dar a conocer sobre la agronomía que se da en la sede de mosquera Sena CBA, la página contiene imágenes tomadas por nosotros mismos, en cada una de las secciones se encuentra una especificación del contenido con diversidad de imágenes 
 - 
 
