@@ -12,26 +12,43 @@
           
    
                                         -ENTIDAD: CENTRO DE BIOTECNOLOGIA AGROPECUARIA    
-                                                   
-         
+                            
+                            
+                            
+                            
+                            
+                            
 
-- Se hace página de Senagro con variedad de contenido
-- Contiene un carrusel de imágenes, objetivos,  cómo llegar, quienes somos, 
-- En su parte lateral se encuentra un menú que nos indica el contenido de la página que contiene apicultura, ganadería, especies menores, biotecnología, cafetería, eventos culturales y galeria de videos.
-- se cambio el footer, el tipo de letra, se organizo el contenido de las paginas (texto e imagen) 
+ Con este proyecto se quiere dar a conocer sobre las especialidades que tiene el Sena, para la integración a más programas, tanto agropecuaria cómo administrativos y corporativos.
 
-- El objetivo de esta página es a dar a conocer sobre la agronomía que se da en la sede de mosquera Sena CBA, la página contiene imágenes tomadas por nosotros mismos, en cada una de las secciones se encuentra una especificación del contenido con diversidad de imágenes 
-- 
+ -En esta página se encuentra variedad de opciones, contiene un menú desplegable, en este contiene en la parte superior el menú desplegable, el inicio, quienes somos, objetivos, y como llegar.
 
+ -En la parte del menú  se puede encontrar el contenido de la página como la apicultura, ganadería, especies menores, biotecnología, repostería, coctelería, eventos culturales y videos, encontrando una descripción breve sobre cada una de ellas, con un contenido de videos y cards para la factibilidad, entendible y con variedad de imágenes 
 
-Integrantes:
+ -En el pie de página se puede encontrar una breve descripción del contenido teniendo el logo, redes sociales integrantes, teléfono dirección y correo electrónico 
 
 
 
--Anthony Rincón 
+ Integrantes:
 
--Santiago Hernández
+ -Anthony Rincón 
 
--Adriana Rincón
+ -Santiago Hernández
 
--Sebastián Tovar
+ -Adriana Rincón
+
+ -Sebastián Tovar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
